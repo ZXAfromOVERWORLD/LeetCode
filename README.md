@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
