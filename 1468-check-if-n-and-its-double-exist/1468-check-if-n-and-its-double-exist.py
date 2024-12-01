@@ -1,3 +1,4 @@
+@cache
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
         s=set(arr)
@@ -7,4 +8,8 @@ class Solution:
             if 2*i in s:
                 return True
         return False
+        
+
+        
+        
         
