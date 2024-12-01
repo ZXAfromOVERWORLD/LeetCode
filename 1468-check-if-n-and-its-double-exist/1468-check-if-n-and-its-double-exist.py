@@ -1,7 +1,9 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        for i in range(len(arr) - 1):
-            for j in range(i+1,len(arr)):
-                if (i != j) and (0 <= i and j < len(arr)) and (arr[i] == 2*arr[j] or arr[j] == 2 * arr[i]):
-                    return True
+        s=set(arr)
+        if arr.count(0)==1:
+            s.remove(0)
+        for i in arr:
+            if 2*i in s:
+                return True
         return False
