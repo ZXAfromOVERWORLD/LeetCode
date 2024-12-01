@@ -7,3 +7,4 @@ class Solution:
             if 2*i in s:
                 return True
         return False
+        
