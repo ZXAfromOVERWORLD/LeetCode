@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0041-first-missing-positive) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2089-maximum-matrix-sum) |
 ## Graph
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [2089-maximum-matrix-sum](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
