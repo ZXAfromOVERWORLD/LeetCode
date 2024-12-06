@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
