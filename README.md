@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
