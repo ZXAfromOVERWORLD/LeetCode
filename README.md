@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0136-single-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0136-single-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
