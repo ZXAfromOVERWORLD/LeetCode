@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0125-valid-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0125-valid-palindrome) |
 | [2232-adding-spaces-to-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
