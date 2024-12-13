@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0136-single-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2427-first-letter-to-appear-twice](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3427-special-array-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
