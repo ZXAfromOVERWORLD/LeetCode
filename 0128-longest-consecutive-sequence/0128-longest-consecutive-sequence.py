@@ -2,25 +2,23 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0
-        nums=list(set(nums))
-        nums.sort()
-        print(nums)
-        l=0
-        r=1
-        k=1
-        m=1
-        while (r<=len(nums)-1):
-            if nums[l]+k==nums[r]:
-                r+=1
-                k+=1
-                continue
-            else:
-                m=max(k,m)
-                k=1
-                l=r
-                r+=1
-        m=max(k,m)
-        return m
-
-
         
+        # Use a set for O(1) lookups
+        num_set = set(nums)
+        longest_streak = 0
+        
+        for num in num_set:
+            # Check if it's the start of a sequence
+            if num - 1 not in num_set:
+                current_num = num
+                current_streak = 1
+                
+                # Count consecutive numbers
+                while current_num + 1 in num_set:
+                    current_num += 1
+                    current_streak += 1
+                
+                # Update the longest streak
+                longest_streak = max(longest_streak, current_streak)
+        
+        return longest_streak
