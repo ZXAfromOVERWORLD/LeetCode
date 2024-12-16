@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0067-add-binary) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
