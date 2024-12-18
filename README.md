@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0136-single-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1972-rotating-the-box](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/0020-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Trie
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZXAfromOVERWORLD/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
